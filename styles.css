@@ -1,0 +1,9 @@
+* {
+    border-bottom-style: solid; //Universal selector 
+}
+#top {
+    border-bottom-style: solid;
+}
+#footer {
+    border-bottom-style: solid;
+}
